@@ -2,7 +2,7 @@
 # Credit-Bureau-Analysis# 🏦 Nigerian Credit Bureau — End-to-End Data Analytics Portfolio Project
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20MySQL%20%7C%20Power%20BI-blue)
+![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20MySQL%20%7C%20Power%20BI-blue)
 ![Records](https://img.shields.io/badge/Records-10%2C000-orange)
 ![Period](https://img.shields.io/badge/Period-2022--2024-lightgrey)
 
@@ -60,7 +60,8 @@ nigerian-credit-bureau/
 
 | Tool | Purpose |
 |---|---|
-| **Python (pandas, numpy)** | Synthetic data generation & data cleaning |
+| **Python (pandas, numpy)** | Synthetic data generation 
+| **Excel (Power Query)** | data cleaning |
 | **MySQL Workbench** | SQL analysis & business question answering |
 | **Power BI** | Interactive executive dashboard |
 | **reportlab** | PDF documentation generation |
